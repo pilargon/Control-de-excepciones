@@ -40,9 +40,5 @@ namespace Disenio_de_clases_de_repaso
             return Math.Pow(largo,2)+Math.Pow(ancho,2);
         }
 
-
-
-
-
     }
 }
